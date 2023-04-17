@@ -1,0 +1,42 @@
+*{
+  padding:0;
+  margin:0;
+  
+  
+} 
+div{
+  display: inline-block;
+  border: 1px solid rgb(255, 255, 255);
+  width: 200px;
+  height: 200px;
+    
+}
+.mae{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#conteiner{
+  width: 77rem;
+  height: 64.5rem;
+
+}
+.vermelho{
+  background-color: red;
+}
+.azul{
+  background-color: #00B0F0;
+}
+.verde{
+  background-color: #00B050;
+}
+.amarelo{
+  background-color: #FFFF00;
+}
+#primeiro, #segundo, #terceiro, #quarto{
+  border: 1px solid rgb(0, 0, 0);
+}
